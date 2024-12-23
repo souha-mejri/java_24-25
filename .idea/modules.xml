@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Projetjava.iml" filepath="$PROJECT_DIR$/Projetjava.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/zooproject.iml" filepath="$PROJECT_DIR$/zooproject.iml" />
+>>>>>>> cc5a51a517ec6a077a15edd96b3a9fdd3ed01353
     </modules>
   </component>
 </project>
